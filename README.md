@@ -48,9 +48,7 @@ Les expériences sont volontairement limitées en nombre d’epochs afin de rest
 
 ---
 
-## ⚙️ Environnement et exécution
-
-### Exécution recommandée
+## Environnement et exécution recommandée
 
 - **Google Colab (CPU)**  
   Le notebook est conçu pour être exécuté sans GPU.
