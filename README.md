@@ -4,7 +4,7 @@
 
 ---
 
-## 📌 Description
+## Description
 
 Ce dépôt contient un **notebook pédagogique et expérimental** consacré à la méthode **BYOL (Bootstrap Your Own Latent)**, introduite par Grill et al. (NeurIPS 2020).
 
@@ -19,7 +19,7 @@ L’accent est mis sur :
 
 ---
 
-## 📚 Référence
+## Référence
 
 > J.-B. Grill, F. Strub, F. Altché, et al.  
 > **Bootstrap Your Own Latent: A New Approach to Self-Supervised Learning**  
@@ -27,7 +27,7 @@ L’accent est mis sur :
 
 ---
 
-## 🧠 Contenu du notebook
+## Contenu du notebook
 
 Le notebook suit la progression conceptuelle suivante :
 
