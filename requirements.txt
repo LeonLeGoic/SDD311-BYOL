@@ -1,0 +1,14 @@
+
+---
+
+# `requirements.txt`
+
+Version **simple, robuste, compatible Colab et local** :
+
+```txt
+torch>=2.0
+torchvision>=0.15
+numpy
+matplotlib
+scikit-learn
+tqdm
